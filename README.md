@@ -1,6 +1,6 @@
 # Hi there 👋, I am Prashant Bhandari
 ### Designer and Developer
-https://scontent.fktm6-1.fna.fbcdn.net/v/t1.0-9/s960x960/78260944_470997730206740_6280927476084375552_o.jpg?_nc_cat=109&ccb=3&_nc_sid=e3f864&_nc_ohc=lyjW3frpaG0AX-lz-8L&_nc_ht=scontent.fktm6-1.fna&tp=7&oh=81f0a6d5e5854c04f49d537f067f3d26&oe=6052D35A
+(https://scontent.fktm6-1.fna.fbcdn.net/v/t1.0-9/s960x960/78260944_470997730206740_6280927476084375552_o.jpg?_nc_cat=109&ccb=3&_nc_sid=e3f864&_nc_ohc=lyjW3frpaG0AX-lz-8L&_nc_ht=scontent.fktm6-1.fna&tp=7&oh=81f0a6d5e5854c04f49d537f067f3d26&oe=6052D35A)
 
 
 *I am Prashant from Nepal and I do content on Designing, Content Writing, Android/IOS App Developing and a frontend and backend Developing. I really enjoy learning programming languages. For work enquiries shoot me an email at prashantbhandari500@gmail.com.*
