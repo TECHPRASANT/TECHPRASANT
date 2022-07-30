@@ -1,11 +1,9 @@
 # Hi there 👋,
 
-*I am Prashant from Nepal and I do content on Designing, Content Writing, Android/IOS App Developing and a frontend and backend Developing. I really enjoy learning programming languages. For work enquiries shoot me an email at prashantbhandari500@gmail.com.*
+*I am a student and currently exploring different programming languages like JAVA, PHP, Python, etc but my Favorite Programming language is JAVA and Pyhton.
 
-**Skills:** *PYTHON/JAVASCRIPT / PHP /JAVA/KOTLIN/ JS / HTML / CSS*
+**Skills:** *PYTHON/JAVASCRIPT / PHP /JAVA/ JS / HTML / CSS*
 
-- 🔭 I’m currently working on Android app development. 
-- 🌱 I’m currently learning Python, Ruby. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/techprasant)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prashant-bhandari-453355147//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tech.prasant)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tech_prasant/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](iamprashant.tech)  
