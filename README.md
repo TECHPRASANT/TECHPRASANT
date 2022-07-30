@@ -11,6 +11,4 @@
 <hr>
 # 🔥My Stats:
 
-![Profile views](https://gpvc.arturio.dev/techprasant)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=techprasant&theme=vision-friendly-dark)](https://git.io/streak-stats)
