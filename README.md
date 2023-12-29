@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant0ngx" alt="prashant0ngx" /></a> </p>
 
-- 💬 Ask me about **nest js , django, spring boot**
+- 💬 Ask me about **node js , django, python**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
